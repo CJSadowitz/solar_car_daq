@@ -1,1 +1,1 @@
-# solar_car_daq
+# Solar Car Data Acquisition
